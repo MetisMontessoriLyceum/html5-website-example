@@ -112,3 +112,21 @@ footer {
   color: #FAFAFA;
   padding: 26px;
 }
+
+article.disclaimer {
+  background-color: #F44336;
+  color: #FAFAFA;
+  display: flex;
+  border-color: #D32F2F;
+}
+
+article.disclaimer i {
+  margin: auto 0px;
+  margin-right: 9px;
+  font-size: 1.5em;
+}
+
+article.disclaimer strong {
+  display: block;
+  text-transform: uppercase;
+}
